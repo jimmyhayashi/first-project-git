@@ -1,2 +1,3 @@
 Voyager 1 is a space probe that has a disc with the records of the songs and images of humanity.
 Launch date: 1977
+More information: https://voyager.jpl.nasa.gov/
